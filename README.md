@@ -1,5 +1,6 @@
 # Tpjsp
 # Gestion des machines avec JSP
+# Idée sur le projet :
 Ce guide ici fournit des informations essentielles sur la gestion des machines, couvrant les aspects de leur création, de leur suppression et de leur modification. Il met en avant l'utilisation de JavaServer Pages (JSP), une technologie Java, pour développer une interface web permettant le contrôle des machines. Ce document souligne les avantages de l'utilisation de JSP dans le contexte de la gestion des machines tout en expliquant la conception de l'interface.
 
 # Qu'est-ce que JSP ?
@@ -14,8 +15,9 @@ L'utilisation de JSP pour la conception de l'interface machine offre plusieurs a
 
 3. Facilité d'Intégration de Données :** Les balises JSP simplifient l'intégration de données en temps réel, ce qui est essentiel pour la gestion des machines.
 
-4. Scalabilité :** Les applications JSP sont évolutives, ce qui les rend adaptées pour gérer simultanément un grand nombre de machines.
+4. Scalabilité : Les applications JSP sont évolutives, ce qui les rend adaptées pour gérer simultanément un grand nombre de machines.
 
-5. Interopérabilité :** JSP peut être associé à d'autres technologies Java pour interagir avec divers systèmes et services, ce qui revêt une importance particulière dans le contexte de la gestion des machines.
+5. Interopérabilité : JSP peut être associé à d'autres technologies Java pour interagir avec divers systèmes et services, ce qui revêt une importance particulière dans le contexte de la gestion des machines.
+6. 
 # Test d'ajout des informations sur les machines 
 ![photo1](https://github.com/salmachtioui/Tpjsp/assets/147477621/1baba207-017a-49f1-b15e-2eea2bd46c02)
