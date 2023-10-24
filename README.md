@@ -30,3 +30,9 @@ L'utilisation de JSP pour la conception de l'interface machine offre plusieurs a
 ![c2](https://github.com/salmachtioui/Tpjsp/assets/147477621/600a2413-1396-48f3-8845-11bfa82c4a2e)
 # Apres :
 ![photo1](https://github.com/salmachtioui/Tpjsp/assets/147477621/06d75b63-070c-4eb6-8683-369d30e459b1)
+
+# Les technologies utilisées:
+Java
+Xampp( MySql) pour creation et l'apercu des bases de donnees
+Hibernate
+JSP pour créer des interfaces https
