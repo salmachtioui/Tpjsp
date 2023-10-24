@@ -25,4 +25,7 @@ L'utilisation de JSP pour la conception de l'interface machine offre plusieurs a
 ![c1](https://github.com/salmachtioui/Tpjsp/assets/147477621/497244ae-0003-4b43-a916-26cfb552b725)
 # Apres :
 ![c2](https://github.com/salmachtioui/Tpjsp/assets/147477621/600a2413-1396-48f3-8845-11bfa82c4a2e)
-
+# Test de modifier des informations sur les machines  sur le tableu :
+# Avant :
+![c1](https://github.com/salmachtioui/Tpjsp/assets/147477621/497244ae-0003-4b43-a916-26cfb552b725)
+# Apres :
