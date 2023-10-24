@@ -19,5 +19,10 @@ L'utilisation de JSP pour la conception de l'interface machine offre plusieurs a
 
 5. Interopérabilité : JSP peut être associé à d'autres technologies Java pour interagir avec divers systèmes et services, ce qui revêt une importance particulière dans le contexte de la gestion des machines.
 6. 
-# Test d'ajout des informations sur les machines 
-![photo1](https://github.com/salmachtioui/Tpjsp/assets/147477621/1baba207-017a-49f1-b15e-2eea2bd46c02)
+
+# Test d'ajout une machine sur le tableu :
+# Avant :
+![c1](https://github.com/salmachtioui/Tpjsp/assets/147477621/497244ae-0003-4b43-a916-26cfb552b725)
+# Apres :
+![c2](https://github.com/salmachtioui/Tpjsp/assets/147477621/600a2413-1396-48f3-8845-11bfa82c4a2e)
+
