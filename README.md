@@ -29,3 +29,4 @@ L'utilisation de JSP pour la conception de l'interface machine offre plusieurs a
 # Avant :
 ![c1](https://github.com/salmachtioui/Tpjsp/assets/147477621/497244ae-0003-4b43-a916-26cfb552b725)
 # Apres :
+![photo1](https://github.com/salmachtioui/Tpjsp/assets/147477621/06d75b63-070c-4eb6-8683-369d30e459b1)
